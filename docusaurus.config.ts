@@ -1,0 +1,127 @@
+import {themes as prismThemes} from 'prism-react-renderer';
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
+
+const config: Config = {
+  title: 'Debrid Vault Guides',
+  tagline: 'Master your media library',
+  favicon: 'img/favicon.ico',
+
+  // Updated to your new domain
+  url: 'https://beta.bashar.wiki',
+  baseUrl: '/',
+
+  // These prevent the Docker build from failing on minor link/image errors
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    format: 'mdx',
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownImages: 'warn',
+    },
+  },
+
+  future: {
+    v4: true, 
+
+  },
+
+  organizationName: 'bashar', 
+  projectName: 'dv-guides', 
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  presets: [
+    [
+      'classic',
+      {
+        docs: {
+          sidebarPath: './sidebars.ts',
+          editUrl: 'https://github.com/bashar/aio-guides/tree/main/',
+          routeBasePath: '/',
+        },
+        blog: {
+          showReadingTime: true,
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+        },
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      } satisfies Preset.Options,
+    ],
+  ],
+
+  themeConfig: {
+    image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      respectPrefersColorScheme: true,
+    },
+    navbar: {
+      title: 'Bashar Wiki',
+      logo: {
+        alt: 'Logo',
+        src: 'img/logo.svg',
+      },
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Home',
+        },
+        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          href: 'https://github.com/bashar/guides',
+          label: 'GitHub',
+          position: 'right',
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Docs',
+          items: [
+            {
+              label: 'Setup Guide',
+              to: '/debrid-vault/setup-guide',
+            },
+          ],
+        },
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'Discord',
+              href: 'https://discord.gg/your-link',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'Blog',
+              to: '/blog',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Bashar Wiki. Built with Docusaurus.`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  } satisfies Preset.ThemeConfig,
+};
+
+export default config;

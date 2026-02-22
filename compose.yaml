@@ -1,0 +1,19 @@
+services:
+
+  guides:
+    build: 
+      context: .
+    container_name: guides
+    restart: unless-stopped
+    env_file:
+      - .env
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.guides.rule=Host(`${GUIDES_HOSTNAME?}`)"
+      - "traefik.http.routers.guides.entrypoints=websecure"
+      - "traefik.http.routers.guides.tls=true"
+      - "traefik.http.routers.guides.tls.certresolver=letsencrypt"
+      - "traefik.http.services.guides.loadbalancer.server.port=80"
+    profiles:
+      - guides
+      - all

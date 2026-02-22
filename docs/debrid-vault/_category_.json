@@ -1,0 +1,8 @@
+{
+  "label": "Debrid Vault",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "debrid-vault/index"
+  }
+}
