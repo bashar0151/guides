@@ -72,7 +72,6 @@ const config: Config = {
           position: 'left',
           label: 'Home',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/bashar0151/guides',
           label: 'GitHub',
