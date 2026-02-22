@@ -5,8 +5,6 @@ services:
       context: .
     container_name: guides
     restart: unless-stopped
-    env_file:
-      - .env
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.guides.rule=Host(`${GUIDES_HOSTNAME?}`)"
