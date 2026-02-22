@@ -10,8 +10,9 @@ This guide provides a quick to setting up guide with **Eclipse** mobile app.
 
 * **TestFlight Invitation:** Currently, access is limited to VIPs/donors [Ko-fi](https://ko-fi.com/doctor98who).
 
-> [!IMPORTANT]
-> **Donors:** Please make sure to include your Discord username in the donation note or DM **doctor** on the [Discord](https://discord.gg/Sj5En7Yuhw) so you can be assigned the appropriate role for testing Eclipse to receive a TestFlight invite.
+:::danger
+**Donors:** Please make sure to include your Discord username in the donation note or DM **doctor** on the [Discord](https://discord.gg/Sj5En7Yuhw) so you can be assigned the appropriate role for testing Eclipse to receive a TestFlight invite.
+:::
 
 ---
 
@@ -37,8 +38,9 @@ This guide provides a quick to setting up guide with **Eclipse** mobile app.
 
 ### Mobile App Installation
 
-> [!WARNING]
-> You must receive an invitation from **doctor** to download and install Eclipse. Currently, this is for donors only. Make sure to include your Discord username or DM doctor.
+:::info
+You must receive an invitation from **doctor** to download and install Eclipse. Currently, this is for donors only. Make sure to include your Discord username or DM doctor.
+:::
 
 1. Once you receive the invite, follow the instructions in your email to get **TestFlight** set up.
 2. Ensure the TestFlight app is installed on your mobile device; this is where you will download and update Eclipse.

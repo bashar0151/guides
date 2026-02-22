@@ -17,12 +17,13 @@ If you find any of the guides useful and you would like to buy me a coffee, I ha
 
 [TorBox](https://torbox.app/subscription?referral=8fb500fe-0c0d-428c-9b2f-c5f0895d7204) - We’ll both get an extra 7 days free for every month purchased, which feels like a win all around.
 
-> [!NOTE]
-> I am no scholar nor an expert, just an old hobbyist who likes to tinker. Some of the information in these guides may not be accurate, and I always suggest to fact check theese guides.
+:::NOTE
+I am no scholar nor an expert, just an old hobbyist who likes to tinker. Some of the information in these guides may not be accurate, and I always suggest to fact check theese guides.
+:::
 
-> [!CAUTION]
-> These guides are for educational use only. I do not host, store, or distribute any content. I do not endorse or promote access to copyrighted content. You are solely responsible for complying with all applicable laws and the terms of service for any applications or services mentioned in these guides.
-
+:::danger
+These guides are for educational use only. I do not host, store, or distribute any content. I do not endorse or promote access to copyrighted content. You are solely responsible for complying with all applicable laws and the terms of service for any applications or services mentioned in these guides.
+:::
 
 # Support the Developers
 

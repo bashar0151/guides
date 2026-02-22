@@ -21,14 +21,15 @@
 
 <br />
 
-> [!NOTE]
-> _Note: Screenshots represent an early version of the app. Features and UI are subject to improvement as we continue development._
+:::NOTE
+Screenshots represent an early version of the app. Features and UI are subject to improvement as we continue development._
+:::
 
 ---
 
-> [!NOTE]
-> Eclipse is currently being developed only for iOS for the time being, purely because the developer only has an iPhone. This does not mean there will be no Android app being released in the future. You can still use Android, and continue to use the Debrid Vault website and save it as a web app. I highly recommend checking out the [[Unoffical Andriod Auto Setup]] guide.
-
+:::NOTE
+Eclipse is currently being developed only for iOS for the time being, purely because the developer only has an iPhone. This does not mean there will be no Android app being released in the future. You can still use Android, and continue to use the Debrid Vault website and save it as a web app. I highly recommend checking out the [Unoffical Andriod Auto Setup](/docs/debrid-vault/setup-guide/unoffical-andriod-auto-setup) guide.
+:::
 ---
 
 ### Why TorBox?
@@ -66,8 +67,9 @@ The app is currently in the final stages of the Apple approval process!
 * **Wave 1:** As soon as the app is live on TesFlight, **Supporters and Donors** will receive the first wave of invites.
 * **Wave 2:** General testing batches will open to the public approximately 2 weeks after the initial launch.
 
-> [!TIP]
-> **Get Early Access:** Development is fueled by the community. To support the project and get into the first wave of invites, visit our [Ko-fi page](https://ko-fi.com/doctor98who).
+:::TIP
+**Get Early Access:** Development is fueled by the community. To support the project and get into the first wave of invites, visit our [Ko-fi page](https://ko-fi.com/doctor98who).
+:::
 
 ---
 

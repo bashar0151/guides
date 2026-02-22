@@ -25,7 +25,7 @@ Below are some pros and cons which could help you descide if you need to use a d
 - **Instant Access (Caching)** If another user has already requested this file, this file will be "cached" on the server. This means the file will instantly be available for streaming buffer-free or downloading on your device, regardless of the file size or type.
 
 
-- **Privacy and Security ** - As the debrid service will do the fetching, your ISP will not know whthe are using ere exactly service you are using to download the file from, only that it was drieclty downaldoed form your Dreibd provider. This saves the cost of needing to use a VPN when streaming or downloading your files dirently form your providers Web app. 
+- **Privacy and Security** - As the debrid service will do the fetching, your ISP will not know whthe are using ere exactly service you are using to download the file from, only that it was drieclty downaldoed form your Dreibd provider. This saves the cost of needing to use a VPN when streaming or downloading your files dirently form your providers Web app. 
 
 - **Enhanced streaming:** For streaming media management platforms like Stremaio and Debrid Vault, your debrid provider acts as a bridge between the user and streaming sources. It provides direct private links, which quickly provdies third party apps to stream media files.
 
@@ -63,9 +63,10 @@ This is my affiliate link, which we will both get 7 days extra for each month yo
 ![Real-Debrid Prices](/img/debrid/image-1765928157056.png)
 
 
-> [!NOTE]
-> This is not the extensive list and I would advise using this as base to do more research on which provider is best for you!
+:::NOTE
+This is not the extensive list and I would advise using this as base to do more research on which provider is best for you!
+:::
 
-> [!NOTE]
-> Please note that all information on this page is accurate at the time of writing this guide; always do more research!
->
+:::NOTE
+Please note that all information on this page is accurate at the time of writing this guide; always do more research!
+:::

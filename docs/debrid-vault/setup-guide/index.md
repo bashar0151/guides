@@ -6,7 +6,7 @@ This guide focuses on initially setting up an account with DV, navigating the we
 
 To access Debrid Vault, you can sign up for an account or continue as a guest.
 
-**Signing up ** lets you create a profile, which saves your settings and listening statistics when logging into any device. (Saving time to reapply the same setting on multiple devices and browsers you use).
+**Signing up** lets you create a profile, which saves your settings and listening statistics when logging into any device. (Saving time to reapply the same setting on multiple devices and browsers you use).
 
 **Continue as Guest** lets you use DV without needing to set up an account.
 
@@ -50,22 +50,25 @@ Given the nature of TorBox , there are many more features which gives DV more fu
 
 ![](/img/debrid-vault/setup-guide/image-1766932954004.png)
 
-> [!NOTE]
-> For more information about indxers or how Debrid services work, I would recommend reviewing the [[Debrid]] web page in this wiki. 
+:::note
+For more information about indxers or how Debrid services work, I would recommend reviewing the [Debrid](/docs/debrid) web page in this wiki. 
+:::
 
+:::tip
+To fill in the gaps on music that is difficult to find, after searching for a song for TorBox users, there is a drop-down where you can change the search to YouTube Music or SoundCloud, which lets you take advantage of the WebDownload feature and that way you can directly add any song you wish to your cloud and, in effect, to DV. This was you to have access to any song you wish, essentially. 
+:::
 
-> [!TIP]
-> To fill in the gaps on music that is difficult to find, after searching for a song for TorBox users, there is a drop-down where you can change the search to YouTube Music or SoundCloud, which lets you take advantage of the WebDownload feature and that way you can directly add any song you wish to your cloud and, in effect, to DV. This was you to have access to any song you wish, essentially. 
-
-> [!WARNING]
-> The other pages that are not music are on the back burner and still in "alpha", so don't expect much there yet, as the focus is to refine music as much as possible.
+:::warning
+The other pages that are not music are on the back burner and still in "alpha", so don't expect much there yet, as the focus is to refine music as much as possible.
+:::
 
 ### Integrations
 
 This section lets you connect your Debrid Vault with third-party apps to enhance your experience. 
 
-> [!NOTE]
-> When you listen to a song, Last.fm scrobbles the song by recording the song's title, its artist, its genre, and when you listened to it. All this information gets saved to your account, and Last.fm uses it to both generate lists of your favourite songs (both recently and of all-time) and recommend you new ones.  
+:::note
+When you listen to a song, Last.fm scrobbles the song by recording the song's title, its artist, its genre, and when you listened to it. All this information gets saved to your account, and Last.fm uses it to both generate lists of your favourite songs (both recently and of all-time) and recommend you new ones.  
+:::
 
 ![](/img/debrid-vault/setup-guide/image-1766933075950.png)
 
@@ -76,8 +79,10 @@ This section lets you edit/delete your account profile credentials, customise yo
 ![](/img/debrid-vault/setup-guide/image-1766934295155.png)
 ![](/img/debrid-vault/setup-guide/image-1766934404296.png)
 
-> [!NOTE]
-> At the time of writing this guide, Mobile App Access is coming soon for testing. This will let you generate API keys to connect mobile apps to your account.
+:::note
+At the time of writing this guide, Mobile App Access is coming soon for testing. This will let you generate API keys to connect mobile apps to your account.
+:::
 
-> [!CAUTION]
-> Page under construction, marked as incomplete!
+:::warning
+Page under construction, marked as incomplete!
+:::

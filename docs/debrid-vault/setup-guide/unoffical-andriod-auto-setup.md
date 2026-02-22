@@ -13,10 +13,11 @@ This guide provides the necessary steps to set up **Android Auto** using the **D
 
 ---
 
-> [!WARNING]
-> **Hardware Compatibility:** At the time of writing, the **AAWireless Adapter** is the only known working method for this setup. Using other wireless adapters or devices is at your own risk and will likely result in the setup failing. 
->
-> **Why this works:** Enabling Developer Mode within the AAWireless device settings allows the adapter to bypass standard Android Auto restrictions. Normally, these restrictions prevent the correct **Fermata Auto** app from showing or opening within the Android Auto interface. This bypass ensures the app displays correctly and functions on your head unit.
+:::danger
+**Hardware Compatibility:** At the time of writing, the **AAWireless Adapter** is the only known working method for this setup. Using other wireless adapters or devices is at your own risk and will likely result in the setup failing. 
+
+ **Why this works:** Enabling Developer Mode within the AAWireless device settings allows the adapter to bypass standard Android Auto restrictions. Normally, these restrictions prevent the correct **Fermata Auto** app from showing or opening within the Android Auto interface. This bypass ensures the app displays correctly and functions on your head unit.
+ :::
 
 
 ---
@@ -64,11 +65,13 @@ This guide provides the necessary steps to set up **Android Auto** using the **D
 
 ### Screen Alignment and DPI Settings
 
-> [!TIP]
-> **Optimise your display:** You can change the **DPI (Dots Per Inch)** value in the AAWireless app settings to improve the alignment on your infotainment screen. 
-> 1. Open the **AAWireless app** while connected.
-> 2. Navigate to **Settings** > **Change DPI**.
-> 3. Enter a value and save.
+:::TIP
+**Optimise your display:** You can change the **DPI (Dots Per Inch)** value in the AAWireless app settings to improve the alignment on your infotainment screen. 
+
+ 1. Open the **AAWireless app** while connected.
+ 2. Navigate to **Settings** > **Change DPI**.
+ 3. Enter a value and save.
+ :::
 
 | Screen Size | Recommended DPI Value |
 | :--- | :--- |
@@ -76,5 +79,6 @@ This guide provides the necessary steps to set up **Android Auto** using the **D
 | **10-Inch+ Screens** | 150 or higher |
 | **Maps Optimization** | 125 or 140 |
 
-> [!NOTE]
-> **Trial and Error:** Lower values (90–110) usually create a more compact interface with the taskbar on the side. Higher values often result in a full-screen layout. You may need to test a few settings to find what works best for your specific car display.
+:::note
+**Trial and Error:** Lower values (90–110) usually create a more compact interface with the taskbar on the side. Higher values often result in a full-screen layout. You may need to test a few settings to find what works best for your specific car display.
+:::
