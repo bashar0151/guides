@@ -10,7 +10,7 @@
 > Currently, Debrid Vault supports **TorBox** and **Real-Debrid**.
 
 ### **Q: How can I request testing Debrid Vault?**
-> Testing is currently open for everyone, pelase see ⁠debrid-vault-testers AND ⁠debrid-vault-updates on the [Debrid Vault discord](https://discord.gg/Sj5En7Yuhw)
+> Testing is currently open for everyone, pelase see ⁠debrid-vault-testers AND ⁠debrid-vault-updates on the [Debrid Vault discord](https://discord.gg/A8j4c42sdY)
 
 ### **Q: Can I share DV during the testing phase?**
 > **No.** Please do not share it during the testing phase. It will be released publicly once we iron out bugs and add more features.
@@ -21,6 +21,6 @@
 > * **Android:** The developer is focusing on iOS first; keep an eye on announcements for the Android APK.
 
 ### **Q: How do I get the most out of DV?**
-> Check out the official [Tips and Tricks for DV](https://discord.gg/Sj5En7Yuhw) for basic guides. You can also ask questions directly in the **Debrid Vault Discord** or by exploring this **Unofficial Wiki**!
+> Check out the official [Tips and Tricks for DV](https://discord.gg/A8j4c42sdY) for basic guides. You can also ask questions directly in the **Debrid Vault Discord** or by exploring this **Unofficial Wiki**!
 
 ---

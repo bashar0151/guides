@@ -43,5 +43,5 @@ Debrid Vault Link: https://debridvault.elfhosted.com/
 :::note
  Interested, why not join the Discord!
 
- Discord: [Click here](https://discord.gg/debridvault)
+ Discord: [Click here](https://discord.gg/A8j4c42sdY)
 :::

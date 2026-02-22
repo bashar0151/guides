@@ -36,4 +36,4 @@ It would not be possible to make these guides without The GOAT Doctor (Debrid Va
 
 [TorBox](https://torbox.app/subscription?referral=3c161a04-9201-4ef5-87fb-d91c4ee13d2e) - You and Doctor will both get an extra 7 days free for every month purchased, which feels like a win all around.
 
-[Doctors Discord (Debrid Vault)](https://discord.gg/debridvault)
+[Doctors Discord (Debrid Vault)](https://discord.gg/A8j4c42sdY)
