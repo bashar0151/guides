@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Updated to your new domain
-  url: 'https://beta.bashar.wiki',
+  url: 'https://bashar.wiki',
   baseUrl: '/',
 
   // These prevent the Docker build from failing on minor link/image errors
@@ -104,8 +104,16 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Debread Vault',
+              href: 'https://debridvault.elfhosted.com/',
+            },
+            {
+              label: 'YT Music Playlist converter tool',
+              href: 'https://yt.bashar.wiki/',
+            },
+            {
+              label: 'Status',
+              href: 'https://status.bashar.wiki/status/dves',
             },
           ],
         },
