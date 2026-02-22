@@ -45,12 +45,8 @@ const config: Config = {
           editUrl: 'https://github.com/bashar/aio-guides/tree/main/',
           routeBasePath: '/',
         },
-        blog: {
-          showReadingTime: true,
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        // Blog is now disabled
+        blog: false, 
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -78,7 +74,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/bashar/guides',
+          href: 'https://github.com/bashar0151/guides',
           label: 'GitHub',
           position: 'right',
         },
