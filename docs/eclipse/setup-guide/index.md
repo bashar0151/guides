@@ -6,7 +6,7 @@ This guide provides a quick to setting up guide with **Eclipse** mobile app.
 
 ## Requirements 
 
-* **Debrid Vault Account:** You will need to have a registered Debrid Vault accound  [[Debrid Vault/Setup Guide]].
+* **Debrid Vault Account:** You will need to have a registered Debrid Vault accound  [Debrid Vault/Setup Guide](./debrid-vault/setup-guide/index.md).
 
 * **TestFlight Invitation:** Currently, access is limited to VIPs/donors [Ko-fi](https://ko-fi.com/doctor98who).
 
