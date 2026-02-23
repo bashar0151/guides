@@ -79,6 +79,12 @@ const config: Config = {
         },
       ],
     },
+    algolia: {
+      appId: '7901PBJMTW',
+      apiKey: '7cd0f4b6f2490523e353a61c02048866',
+      indexName: 'wiki',
+      contextualSearch: true,
+    },
     footer: {
       style: 'dark',
       links: [
