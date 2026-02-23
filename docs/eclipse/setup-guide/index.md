@@ -57,7 +57,7 @@ You must receive an invitation from **doctor** to download and install Eclipse. 
 3. **Paste the API key** you created in your Debrid Vault settings and press **Connect**.
 4. This will sync your playlists and listening statistics.
 
-<img src="/img/eclipse/setup-guide/image-1768239727068.png" width="250" /> <img src="/img/eclipse/setup-guide/image-1768239709233.png" width="250" /> <img src="./image-1768239936868.png" width="250" />
+<img src="/img/eclipse/setup-guide/image-1768239727068.png" width="250" /> <img src="/img/eclipse/setup-guide/image-1768239709233.png" width="250" /> <img src="/img/eclipse/setup-guide/image-1768239936868.png" width="250" />
 
 ---
 
