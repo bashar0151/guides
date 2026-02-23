@@ -5,7 +5,7 @@ You might be new to the scene and want to know more about it, or want to top up 
 
 ## What is Debrid?
 
-Debrid can be thought of as an online personal high-speed downloader on the cloud. They are designed to quickly fetch your files from various sources such as [hosters](https://support.torbox.app/en/articles/9837721-debrid-hosters), [torrents] (https://www.techslang.com/torrenting-what-is-it-and-how-does-it-work/) or [usenet](https://www.reddit.com/r/usenet/wiki/faq/) networks. The downloaded files are securely stored in the cloud, which can be quickly accessed from your Debrid service dashboard or from various applications, such as Debrid Vault. 
+Debrid can be thought of as an online personal high-speed downloader on the cloud. They are designed to quickly fetch your files from various sources such as [hosters](https://support.torbox.app/en/articles/9837721-debrid-hosters), [torrents](https://www.techslang.com/torrenting-what-is-it-and-how-does-it-work/) or [usenet](https://www.reddit.com/r/usenet/wiki/faq/) networks. The downloaded files are securely stored in the cloud, which can be quickly accessed from your Debrid service dashboard or from various applications, such as Debrid Vault. 
 
 ## Why use Dreibd?
 
