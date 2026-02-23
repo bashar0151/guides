@@ -1,15 +1,15 @@
 # Debrid Vault
 
 <p align="center">
-  <img src="/img/debrid-vault/image-1765930838662.png" alt="Debrid Vault Logo" width="200" />
+  <img src="/img/debrid-vault/image-1765930838662.png" alt="Debrid Vault Logo" width="400" />
 </p>
 
 ## What Is It?
-Debrid Vault (DV) is a feature-rich media manager that integrates with multiple of your debrid cloud providers [(Real-Debrid and TorBox)](https://bashar.wiki/debrid). DV acts as a central location to manage all your media (movies, shows, music, comics, audiobooks, books and games) in one place. It doesn't stop there, DV lets you search, stream and organise your entire library and more. See some of the features below!
+Debrid Vault (DV) is a feature-rich media manager that integrates with multiple of your debrid cloud providers [(Real-Debrid and TorBox)](../debrid.md). DV acts as a central location to manage all your media (movies, shows, music, comics, audiobooks, books and games) in one place. It doesn't stop there, DV lets you search, stream and organise your entire library and more. See some of the features below!
 
 # Setup Guide
 
-If you are interested in using Debrid Vault (Web Debrid Media Manager), I would recommend reading [[Debrid Vault/Setup Guide]] and [[Debrid Vault/Frequently Asked Questions]]
+If you are interested in using Debrid Vault (Web Debrid Media Manager), I would recommend reading [Setup Guide](./setup-guide/index.md) and [Frequently Asked Questions](./frequently-asked-questions.md)
 to get started.
 
 Debrid Vault Link: https://debridvault.elfhosted.com/

@@ -1,6 +1,6 @@
 # Eclipse Mobile
 
-**Eclipse** is a unique, amazing new mobile application which is designed to integrate your [[Debrid Vault]] account. Eclipse will 
+**Eclipse** is a unique, amazing new mobile application which is designed to integrate your [Debrid Vault](../debrid-vault/index.md) account. Eclipse will 
  sync, manage and stream your music media natively from your phone through your TorBox account. This app will streamline and enhance your experience with managing and streaming your music stored in TorBox.
 
 
