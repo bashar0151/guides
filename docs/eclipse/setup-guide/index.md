@@ -18,9 +18,9 @@ This guide provides a quick to setting up guide with **Eclipse** mobile app.
 
 ## Thank You
 
-> [!TIP]
-> Thank you for donating! Your support helps with the development!
-
+:::tip
+Thank you for donating! Your support helps with the development!
+:::
 ---
 
 ## Setup Instructions
