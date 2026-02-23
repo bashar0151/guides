@@ -1,7 +1,7 @@
 # Debrid Vault
 
 <p align="center">
-  <img src="/img/debrid-vault/image-1765930838662.png" alt="Debrid Vault Logo" width="400" />
+  <img src="/img/debrid-vault/image-1765930838662.png" alt="Debrid Vault Logo" width="200" />
 </p>
 
 ## What Is It?
