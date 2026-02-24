@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Music
 
 The music section is built to manage your music library. You can search for music with personal recommendations, create and share your custom playlists with other Debrid Vault users, add favourite music, view your listening stats and manage your Library stored with your Debrid provider. 
