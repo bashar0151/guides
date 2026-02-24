@@ -44,6 +44,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/bashar/aio-guides/tree/main/',
           routeBasePath: '/',
+          showLastUpdateAuthor: true, 
+          showLastUpdateTime: true,
         },
         // Blog is now disabled
         blog: false, 
