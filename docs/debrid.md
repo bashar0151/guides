@@ -63,10 +63,10 @@ This is my affiliate link, which we will both get 7 days extra for each month yo
 ![Real-Debrid Prices](/img/debrid/image-1765928157056.png)
 
 
-:::NOTE
+:::note
 This is not the extensive list and I would advise using this as base to do more research on which provider is best for you!
 :::
 
-:::NOTE
+:::note
 Please note that all information on this page is accurate at the time of writing this guide; always do more research!
 :::

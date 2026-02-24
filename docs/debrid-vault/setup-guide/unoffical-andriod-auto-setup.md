@@ -65,7 +65,7 @@ This guide provides the necessary steps to set up **Android Auto** using the **D
 
 ### Screen Alignment and DPI Settings
 
-:::TIP
+:::tip
 **Optimise your display:** You can change the **DPI (Dots Per Inch)** value in the AAWireless app settings to improve the alignment on your infotainment screen. 
 
  1. Open the **AAWireless app** while connected.

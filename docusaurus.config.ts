@@ -13,8 +13,6 @@ const config: Config = {
 
   // These prevent the Docker build from failing on minor link/image errors
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
-
   markdown: {
     format: 'mdx',
     hooks: {
