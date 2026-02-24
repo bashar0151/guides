@@ -27,9 +27,9 @@ Screenshots represent an early version of the app. Features and UI are subject t
 
 ---
 
-:::note
-Eclipse is currently being developed only for iOS for the time being, purely because the developer only has an iPhone. This does not mean there will be no Android app being released in the future. You can still use Android, and continue to use the Debrid Vault website and save it as a web app. I highly recommend checking out the [Unoffical Andriod Auto Setup](/docs/debrid-vault/setup-guide/unoffical-andriod-auto-setup) guide.
-:::
+  :::note
+  Eclipse is currently being developed only for iOS for the time being, purely because the developer only has an iPhone. This does not mean there will be no Android app being released in the future. You can still use Android, and continue to use the Debrid Vault website and save it as a web app. I highly recommend checking out the [Unoffical Andriod Auto Setup](/debrid-vault/setup-guide/unofficial-android-auto-setup) guide.
+  :::
 ---
 
 ### Why TorBox?

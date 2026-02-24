@@ -51,7 +51,7 @@ Given the nature of TorBox , there are many more features which gives DV more fu
 ![](/img/debrid-vault/setup-guide/image-1766932954004.png)
 
 :::note
-For more information about indxers or how Debrid services work, I would recommend reviewing the [Debrid](./debrid) web page in this wiki. 
+For more information about indxers or how Debrid services work, I would recommend reviewing the [Debrid](../../debrid.md) web page in this wiki. 
 :::
 
 :::tip
