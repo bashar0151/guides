@@ -1,27 +1,16 @@
-# Dependencies
 node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Docusaurus build
 build
 .docusaurus
-
-# Environment and Secrets
 .env
 .env.local
 .env.production
 .env.*.local
-
-# Version Control
 .gitignore
 .github
-
-# Docker files
 Dockerfile
 docker-compose*.yml
-
-
 .DS_Store
 Thumbs.db
