@@ -1,0 +1,8 @@
+{
+  "label": "App Features",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "eclipse/featureslist/index"
+  }
+}
