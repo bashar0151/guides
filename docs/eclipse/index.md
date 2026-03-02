@@ -30,6 +30,7 @@ Screenshots represent an early version of the app. Features and UI are subject t
   :::note
   Eclipse is currently being developed only for iOS for the time being, purely because the developer only has an iPhone. This does not mean there will be no Android app being released in the future. You can still use Android, and continue to use the Debrid Vault website and save it as a web app. I highly recommend checking out the [Unoffical Andriod Auto Setup](/debrid-vault/setup-guide/unofficial-android-auto-setup) guide.
   :::
+  
 ---
 
 ### Why TorBox?
@@ -42,21 +43,26 @@ Even with a TorBox **Essential** plan, you gain access to:
 ---
 
 ### Features List
+
 Below are a few features that Doctor has been cooking:
 
-* **Offline Downloads:** This allows you to listen to your uninterrupted music without the need to worry about an internet connection. 
-* **Instant Playback:** With Torbox, your music will stream very quickly, which depends on your internet speed!
-* **Ecosystem Sync:** Fully synced to **TorBox** via Debrid Vault API —your integrations settings, listening history, and library stay consistent across devices.
+* **Offline Downloads:** This allows you to listen to your music uninterrupted without the need to worry about an internet connection. 
+* **Instant Playback:** With TorBox, your music will stream incredibly fast, depending on your internet speed.
+* **Ecosystem Sync:** Fully synced to **TorBox** via the Debrid Vault API—your integration settings, listening history, and library stay consistent across devices.
 * **Advanced Metadata:** Full Last.fm integration, lyric syncing/fetching, and custom playlist creation. 
-* **Audio engine with EQ settings:**  
-* **Loudness normalisation! **
+* **Audio Engine:** Includes a full EQ (Equalizer) and loudness normalization.
+* **Auto Metadata:** Embedded metadata is automatically applied to your tracks.
 
-**Customisability ** Eclipsie fully utilises the customisation Apple allows, such as changing the colour of the UI, and also the choice of which app icon to display on your iPhone.
+**Customisability:** Eclipse fully utilises the customisation Apple allows, such as changing the UI accent colours and choosing which app icon to display on your iPhone.
 
-**CarPlay Support** Eclipsie will work with CarPlay in your car natively. Your vehicle requires CarPlay support to use this feature.
+**CarPlay Support:** Eclipse works natively with CarPlay in your vehicle. Your vehicle requires CarPlay hardware support to use this feature.
 
-**Community Addons:** Doctor is collaborating with creators to bring community-based addons for an even better overall experience when using eclipes.
+**Community Addons:** Doctor is collaborating with creators to bring community-based addons for an even better overall experience.
 
+#### See Full Documentation:
+* [Playback & Experience](./featureslist/playback%20&%20Experience.md)
+* [Library & Organisation](./featureslist/Library%20&%20Organisation.md)
+* [Ecosystem & Connectivity](./featureslist/Ecosystem%20&%20Connectivity.md)
 ---
 
 ### Release Timeline & Testing

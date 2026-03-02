@@ -40,6 +40,7 @@ Thank you for donating! Your support helps with the development!
 
 :::info
 You must receive an invitation from **doctor** to download and install Eclipse. Currently, this is for donors only. Make sure to include your Discord username or DM doctor.
+We are still waitinng for Apple to apprive Eclipse for public testing in Testflight which gives us 10k slots.
 :::
 
 1. Once you receive the invite, follow the instructions in your email to get **TestFlight** set up.
@@ -52,7 +53,7 @@ You must receive an invitation from **doctor** to download and install Eclipse. 
 ---
 
 ### Link Debrid Vault to Eclipse
-1. Scroll down to the **Addons** section and tap **Manage Addons**.
+1. Press on the 'gear' iocn on the top right hand side of your screen, then scroll down and press on **Manage Addons**.
 2. A popup will appear asking for your API key.
 3. **Paste the API key** you created in your Debrid Vault settings and press **Connect**.
 4. This will sync your playlists and listening statistics.
