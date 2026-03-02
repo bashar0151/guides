@@ -1,35 +1,46 @@
 # Devices Support
 
-This section showcases the list of devices supported by the Eclipse app and the specific features available for each. This page will be updated over time as more devices and features are added to the ecosystem.
+This section showcases the list of devices supported by the Eclipse app and the specific features available for each.
 
 ---
 
 ## macOS Support
 
-Eclipse features a dedicated macOS application, allowing you to enjoy all the features from the mobile version plus a few desktop-exclusive enhancements.
-
-:::info Showcase Coming Soon
-We are currently working on a video demonstration for the macOS version. Stay tuned!
-:::
+Eclipse features a dedicated macOS application, allowing you to enjoy desktop-exclusive enhancements.
 
 ### Handover Mode
+Seamlessly switch between your Mac and iPhone using **Handover Mode**. Transfer your current playback and queue instantly.
 
-Seamlessly switch between your Mac and iPhone using **Handover Mode**. This allows you to transfer your current playback and music queue from one device to another so you can resume exactly where you left off.
+:::info Showcase Coming Soon
+We are currently working on a video demonstration. When added, it will look like this:
+:::
+
+<video controls width="500" style={{ borderRadius: '10px', display: 'block', margin: '0 auto' }}>
+  <source src="/img/eclipse/features/macos-demo.mov" type="video/quicktime" />
+</video>
 
 ---
 
 ## CarPlay
 
-Take your music on the road! With **CarPlay integration**, you can listen to and control your library directly through your car's infotainment system. It supports native controls, Siri commands, and a simplified UI for safe driving.
+Take your music on the road with **CarPlay integration**. Supports native controls, Siri, and a simplified UI for safe driving.
 
-![CarPlay Showcase](../../../static/img/eclipse/features/carpaly.jpg)
+<div style={{ textAlign: 'center' }}>
+  <img 
+    src="/img/eclipse/features/carpaly.jpg" 
+    alt="CarPlay Showcase" 
+    width="500" 
+    style={{ borderRadius: '12px', boxShadow: '0 4px 12px rgba(0,0,0,0.15)' }} 
+  />
+  <p><small><i>Eclipse CarPlay Interface</i></small></p>
+</div>
 
 ---
 
 ## Android Support
 
 :::note Coming Soon
-An Android version of Eclipse is currently in development! We are working hard to bring the same premium experience to the Android ecosystem. Join the Discord for the latest progress updates and beta testing opportunities.
+An Android version is in development! Join the Discord for beta testing opportunities.
 :::
 
 ---

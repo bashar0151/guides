@@ -1,120 +1,83 @@
 # Playback & Experience
 
-This page lists some of the cool **playback and experience** features Eclipse currently has. Over time, this will be updated to include as many new features as possible!
+Eclipse is designed for an immersive listening experience, blending high-tech AI discovery with a sleek, customizable interface.
 
-<video controls width="100%" style={{ borderRadius: '10px' }}>
-  <source src="/img/eclipse/features/summaryvid.mov" type="video/quicktime" />
-  <source src="/img/eclipse/features/summaryvid.mov" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-
-<div style={{ display: 'flex', gap: '10px', justifyContent: 'center' }}>
-  <img src="/img/eclipse/features/new-home-page-when-stream-mode-is-enabled.png" width="48%" />
-  <img src="/img/eclipse/features/new-home-page-when-stream-mode-is-enabled-2.png" width="48%" />
+<div style={{ textAlign: 'center' }}>
+  <video controls width="300" style={{ borderRadius: '15px', border: '1px solid #333' }}>
+    <source src="/img/eclipse/features/summaryvid.mov" type="video/quicktime" />
+    <source src="/img/eclipse/features/summaryvid.mov" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  <p><i>A quick showcase of the Eclipse playback engine.</i></p>
 </div>
-
----
-
-## Animated Album Art
-
-<video controls width="100%" style={{ borderRadius: '10px' }}>
-  <source src="/img/eclipse/features/summaryvid.mov" type="video/quicktime" />
-  <source src="/img/eclipse/features/summaryvid.mov" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-
----
-
-## Stream Mode
-
-Stream mode is a feature which allows instant access to streaming music (**MP3, FLAC/Lossless**). These all act together as one ecosystem and can be put in playlists together. You can set the stream quality used over cellular & WiFi within the settings menu.
-
-<div style={{ display: 'flex', gap: '10px', justifyContent: 'center' }}>
-  <img src="/img/eclipse/features/new-home-page-when-stream-mode-is-enabled.png" width="48%" />
-  <img src="/img/eclipse/features/new-home-page-when-stream-mode-is-enabled-2.png" width="48%" />
-</div>
-
-### Search & Tidal Integration
-
-You can search from various sources including **Tidal**, as well as artist and playlist searches.
-
-<div style={{ display: 'flex', gap: '10px', justifyContent: 'center' }}>
-  <img src="/img/eclipse/features/S1.png" width="48%" />
-  <img src="/img/eclipse/features/S2.png" width="48%" />
-</div>
-
-<div style={{ display: 'flex', gap: '10px', justifyContent: 'center', marginTop: '10px' }}>
-  <img src="/img/eclipse/features/artist-playlist-search.png" width="48%" />
-  <img src="/img/eclipse/features/artist-playlist-search.png" width="48%" />
-</div>
-
-<video controls width="100%" style={{ borderRadius: '10px', marginTop: '10px' }}>
-  <source src="/img/eclipse/features/animate-album-art.mov" type="video/quicktime" />
-  <source src="/img/eclipse/features/animate-album-art.mov" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-
----
-
-## Integration with External Devices
-
-Supports **Apple device handover** to/from iPhone and Mac. This lets you seamlessly switch which device to resume your music on while keeping your music queue intact.
-
-### Lock Screen
-
-Control your music from your lock screen with the ability to show the album art in full screen or as a preview.
-
-![Full Screen Art](../../../static/img/eclipse/features/fullscreen.jpg)
-
-:::tip Setup
-Tap on the album art preview on your lock screen to switch to full-screen album art.
-:::
 
 ---
 
 ## Discovery Features
+*Find your next favorite song with AI-powered curation.*
 
-Eclipse is jam-packed with useful features to help you discover new music. **Smart Shuffle** and **AI DJ** provide personalized suggestions to make finding your next favorite song a breeze.
+### Smart Shuffle & AI DJ (Gemini)
+* **Smart Shuffle:** Tap shuffle **twice** to inject similar tracks into your queue. Look for the ✨ sparkle icon!
+* **AI DJ:** Uses the Gemini API to analyze your history and spin personalized sets of new music and deep cuts.
 
-![Home Page](../../../static/img/eclipse/features/new-home-page-when-stream-mode-is-enabled.png)
-
-### Smart Shuffle
-
-Eclipse automatically finds and adds similar songs to your queue every few tracks, just like Spotify's Smart Shuffle. Recommended songs show a ✨ sparkle in the queue so you know which ones were added automatically.
-
-:::tip Setup
-Tap the shuffle button **twice** to enable Smart Shuffle.
-:::
-
-### AI DJ (Powered by Gemini API)
-
-AI DJ uses the Gemini free API to recommend and play songs for you based on your recent listening history. It can recommend new tracks, deep cuts, and more!
-
-<div style={{ display: 'flex', gap: '10px', justifyContent: 'center' }}>
-  <img src="/img/eclipse/features/djai.png" width="48%" />
-  <img src="/img/eclipse/features/aidjsetup.png" width="48%" />
+<div style={{ display: 'flex', gap: '10px', justifyContent: 'center', flexWrap: 'wrap' }}>
+  <img src="/img/eclipse/features/djai.png" width="250" style={{ borderRadius: '10px' }} />
+  <img src="/img/eclipse/features/aidjsetup.png" width="250" style={{ borderRadius: '10px' }} />
 </div>
 
 ---
 
-## Playback Features
+## Stream Mode & Tidal
+Access **MP3 and FLAC/Lossless** streaming effortlessly. Eclipse merges your local and cloud libraries into one unified ecosystem.
 
-Below is a list of playback features Eclipse currently has. I would recommend viewing the showcase video below, which demonstrates many of these features in action.
+* **Quality Control:** Set independent stream qualities for Cellular vs. WiFi.
+* **Global Search:** Search across your library and **Tidal** simultaneously.
 
-* **Lyrics:** Includes an offset tool to match lyrics on a track-to-track basis.
-* **Easter Eggs:** Look out for special Eclipse secrets on music from certain franchises!
-* **Lock Screen Control:** Native playback controls and full-screen art.
-* **Audio Enhancements:** Animated cover art, Equalizer, and loudness normalization.
-* **Offline Mode:** Listen even without an internet connection.
-* **Last.fm Scrobbling:** Keep your stats up to date.
-* **Crossfade:** Smooth transitions between songs.
+<div style={{ display: 'flex', gap: '10px', justifyContent: 'center', flexWrap: 'wrap' }}>
+  <img src="/img/eclipse/features/S1.png" width="250" style={{ borderRadius: '10px' }} />
+  <img src="/img/eclipse/features/S2.png" width="250" style={{ borderRadius: '10px' }} />
+</div>
 
-<video controls width="100%" style={{ borderRadius: '10px' }}>
-  <source src="/img/eclipse/features/summaryvid.mov" type="video/quicktime" />
-  <source src="/img/eclipse/features/summaryvid.mov" type="video/mp4" />
-  Your browser does not support the video tag.
+---
+
+## Visual Experience
+
+### Animated Album Art
+Bring your library to life with motion. The UI dynamically adjusts to match the vibe of your music.
+
+<video controls width="300" style={{ borderRadius: '15px', display: 'block', margin: '10px auto' }}>
+  <source src="/img/eclipse/features/animate-album-art.mov" type="video/quicktime" />
 </video>
 
-:::tip Suggestion
-If there is a missing feature you would like Eclipse to have, why not leave a suggestion in the relevant channel in the **Debird Vault + Eclipse Discord**?
+### Full Screen & Lock Screen
+* **Lock Screen:** High-res artwork with native controls.
+* **Easter Eggs:** Discover hidden UI themes triggered by specific music franchises!
+
+<img src="/img/eclipse/features/fullscreen.jpg" width="500" style={{ display: 'block', margin: '20px auto', borderRadius: '10px' }} />
+
+---
+
+## Core Playback Tools
+
+<div className="container">
+  <div className="row">
+    <div className="col col--6">
+      <ul>
+        <li><b>Lyrics:</b> Real-time sync with a manual offset tool.</li>
+        <li><b>Handover:</b> Move music between iPhone and Mac.</li>
+        <li><b>Crossfade:</b> Gapless transitions.</li>
+      </ul>
+    </div>
+    <div className="col col--6">
+      <ul>
+        <li><b>Last.fm:</b> Native scrobbling support.</li>
+        <li><b>Audio:</b> EQ and Loudness Normalization.</li>
+        <li><b>Offline:</b> Listen anywhere without data.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+:::tip Feature Suggestion
+Missing something? Join the **Debrid Vault + Eclipse Discord** to share your ideas!
 :::

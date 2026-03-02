@@ -1,81 +1,58 @@
 # Library & Organisation
 
-This section lists the features relating to **library and organisation** functions within the Eclipse app. Over time, this page will be populated with future features as the app gets updated.
+Manage your music with precision. This section covers how Eclipse helps you organize, tag, and share your collection.
 
 ---
 
 ## Playlists 
+Create and manage your playlists with custom names and high-resolution cover art.
 
-The playlist feature lets you create, edit, and manage your playlists in style. You can customise the names and choose specific album art to use as the cover.
-
-<div style={{ display: 'flex', gap: '10px', justifyContent: 'center' }}>
-  <img src="/img/eclipse/features/playlist.png" width="48%" />
-  <img src="/img/eclipse/features/playlist1.png" width="48%" />
+<div style={{ display: 'flex', gap: '10px', justifyContent: 'center', flexWrap: 'wrap' }}>
+  <img src="/img/eclipse/features/playlist.png" width="250" style={{ borderRadius: '10px' }} />
+  <img src="/img/eclipse/features/playlsits2.png" width="250" style={{ borderRadius: '10px' }} />
 </div>
 
-### Playlist Import from Streaming Platforms
+### Playlist Import
+Easily import your existing **Spotify, Apple Music, or YT Music** playlists directly into Eclipse.
 
-Easily import your existing **Spotify, Apple Music, or YT Music** playlists directly into Eclipse to keep your music transition seamless.
-
-![Import Screen](../../../static/img/eclipse/features/import.png)
-
----
-
-## Favorites 
-
-Quickly add music to your Favorites playlist by pressing the **heart icon** while listening to a song in your library.
+<img src="/img/eclipse/features/import.png" width="300" style={{ display: 'block', margin: '20px auto', borderRadius: '10px' }} />
 
 ---
 
-## Edit Metadata
+## Favorites & Quick Mix
+* **Favorites:** Tap the **heart icon** on any track to add it to your Favorites.
+* **Quick Mix:** Instantly play and shuffle tracks from your Debrid library with a single tap.
 
-This feature lets you manually search for and apply metadata to specific tracks or an entire album, keeping your library perfectly organised.
-
-![Album Metadata](../../../static/img/eclipse/features/album-metadata.png)
-
----
-
-## Extract Embedded Metadata
-
-This feature allows you to pull and apply embedded album/track metadata, such as track names and high-quality album art, directly from your files.
-
-![Extracting Metadata](../../../static/img/eclipse/features/extracting-medtadata.png)
+<img src="/img/eclipse/features/play.png" width="300" style={{ display: 'block', margin: '10px auto', borderRadius: '10px' }} />
 
 ---
 
-## Auto Extract Metadata
+## Metadata Management
 
-Eclipse will automatically extract any embedded metadata for newly added tracks. This saves you the time of manually editing your library every time you add new music.
+### Edit & Extract Metadata
+Manually search for metadata or pull tags (track names, high-res art) directly from your files.
 
-![Auto Extract](../../../static/img/eclipse/features/extracting-medtadata.png)
+<div style={{ display: 'flex', gap: '10px', justifyContent: 'center', flexWrap: 'wrap' }}>
+  <img src="/img/eclipse/features/album-metadata.png" width="250" style={{ borderRadius: '10px' }} />
+  <img src="/img/eclipse/features/extracting-medtadata.png" width="250" style={{ borderRadius: '10px' }} />
+</div>
 
----
-
-## Multi-selection
-
-Need to move fast? Multi-selection lets you run functions—such as **Group**, **Add to Favorites**, or **Add to Playlist**—on multiple selected tracks at once.
-
-![Multi-select](../../../static/img/eclipse/features/multiselect.png)
-
----
-
-## Quick Mix
-
-This feature lets you instantly play and shuffle tracks from your Debrid library with a single tap.
-
-![Quick Mix](../../../static/img/eclipse/features/play.png)
+### Auto Extract
+Eclipse automatically handles new tracks as they are added, saving you the manual work.
 
 ---
 
-## Share Track
+## Multi-selection & Sharing
+* **Multi-select:** Group, Favorite, or add multiple tracks to a playlist at once.
+* **Share Track:** Exchange music with fellow Eclipse users for easy importing.
 
-Spread the music! You can share tracks with fellow Eclipse users to easily import and exchange music between friends.
-
-![Track Options](../../../static/img/eclipse/features/track-options.png)
+<div style={{ display: 'flex', gap: '10px', justifyContent: 'center', flexWrap: 'wrap' }}>
+  <img src="/img/eclipse/features/multiselect.png" width="250" style={{ borderRadius: '10px' }} />
+  <img src="/img/eclipse/features/track-options.png" width="250" style={{ borderRadius: '10px' }} />
+</div>
 
 ---
 
 :::tip Setup
-If you notice any metadata isn't appearing correctly, try using the **Extract Embedded Metadata** tool to refresh the track information or use **Edit Metadata*!
+If metadata looks incorrect, try the **Extract Embedded Metadata** tool to refresh the information from the source file!
 :::
-
