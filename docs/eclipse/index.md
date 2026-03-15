@@ -8,18 +8,27 @@
 
 ### User Interface Preview
 
-<br />
-
 <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '15px', marginTop: '20px' }}>
-  <img src="/img/eclipse/image-1767497428017.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
-  <img src="/img/eclipse/image-1767497436167.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
-  <img src="/img/eclipse/image-1767497442466.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
-  <img src="/img/eclipse/image-1767497450630.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
-  <img src="/img/eclipse/image-1767497458193.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
-  <img src="/img/eclipse/image-1767497473229.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/fullscreenplayer.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/lyricsfullscreen.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/jam.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/EQ.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/Home.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/artistdiscovery.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/todayshits.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/mysongslib.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <img src="/img/eclipse/expirywarnings.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
+  <video 
+    src="/img/eclipse/anitmatedalbumart.mp4" 
+    width="180" 
+    autoPlay 
+    loop 
+    muted 
+    playsInline 
+    style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)', objectFit: 'cover' }} 
+  />
+  <img src="/img/eclipse/cloud.png" width="180" style={{ borderRadius: '12px', border: '1px solid #333', boxShadow: '0 4px 8px rgba(0,0,0,0.3)' }} />
 </div>
-
-<br />
 
 :::note
 Screenshots represent an early version of the app. Features and UI are subject to improvement as we continue development._
