@@ -32,7 +32,7 @@ Credit should always be given to the hard work of the Developers. If you love th
 
 It would not be possible to make these guides without The GOAT Doctor (Debrid Vault Developer)❤️!
 
-[Coffee ☕](https://ko-fi.com/doctor98who) 
+[Patreon](https://patreon.com/doctor98who?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
 
 [TorBox](https://torbox.app/subscription?referral=3c161a04-9201-4ef5-87fb-d91c4ee13d2e) - You and Doctor will both get an extra 7 days free for every month purchased, which feels like a win all around.
 

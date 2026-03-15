@@ -37,7 +37,7 @@ Screenshots represent an early version of the app. Features and UI are subject t
 ---
 
   :::note
-  Eclipse is currently being developed only for iOS for the time being, purely because the developer only has an iPhone. This does not mean there will be no Android app being released in the future. You can still use Android, and continue to use the Debrid Vault website and save it as a web app. I highly recommend checking out the [Unoffical Andriod Auto Setup](/debrid-vault/setup-guide/unofficial-android-auto-setup) guide.
+  Eclipse is currently being developed for iOS and Andriod. I highly recommend checking out the [Unoffical Andriod Auto Setup](/debrid-vault/setup-guide/unofficial-android-auto-setup) guide.
   :::
   
 ---
@@ -83,10 +83,10 @@ The app is currently in the final stages of the Apple approval process!
 * **Wave 2:** General testing batches will open to the public approximately 2 weeks after the initial launch.
 
 :::tip
-**Get Early Access:** Development is fueled by the community. To support the project and get into the first wave of invites, visit our [Ko-fi page](https://ko-fi.com/doctor98who).
+**Get Early Access:** Development is fueled by the community. To support the project and get into the first wave of invites, visit our [Pateron page](https://patreon.com/doctor98who?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
 :::
 
 ---
 
 ### Special Thanks
-A massive shoutout to **Doctor**, the developer of Eclipse and Debrid Vault. Fancy buying him a coffee [Ko-fi page](https://ko-fi.com/doctor98who) or using his referral to buy a [TrBox Subscription](https://torbox.app/subscription?referral=3c161a04-9201-4ef5-87fb-d91c4ee13d2e) (Referral code: 3c161a04-9201-4ef5-87fb-d91c4ee13d2e).
+A massive shoutout to **Doctor**, the developer of Eclipse and Debrid Vault. Fancy buying him a coffee [Pateron page](https://patreon.com/doctor98who?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) or using his referral to buy a [TrBox Subscription](https://torbox.app/subscription?referral=3c161a04-9201-4ef5-87fb-d91c4ee13d2e) (Referral code: 3c161a04-9201-4ef5-87fb-d91c4ee13d2e).
