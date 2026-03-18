@@ -37,6 +37,11 @@ For more information on some setup tips to get the best chances of getting music
 
 You will see all your music-related media files stored in your Debrid provider library. Also, you will see all your recently downloaded searches and files from your searches in this section. Furthermore, you play all your music in order or shuffle mode within the library. 
 
+**Direct Dowlaod and import from DV to your debrid providor:**  You can copy hashes/magnet links from within DV and also add files to your debrid from within DV!  torrents work with magnet link and hashes to import and webdownloads/Usenet  you can add with OG link! Have to fix a minor issue, but should work ! 
+
+![](/img/debrid-vault/setup-guide/music/importdvdebrid.png)
+
+
 **Multi-select Actions:** You can select multiple songs to perform actions such as Add to Playlist, Add to Queue, and Download (for downloading files to local storage). This has been in for a few updates now, but I wanted to re-mention it, especially with the UI improvements made recently.
 
 #### Filters

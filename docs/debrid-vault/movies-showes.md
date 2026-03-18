@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: 'Movies/Showes'
+sidebar_label: 'Movies/Shows'
 ---
 
 # Movies & Shows
@@ -24,6 +24,15 @@ sidebar_label: 'Movies/Showes'
 | :--- | :--- |
 | You can configure **Stremio addons** in the indexer section. This allows you to search for movies and shows using your Stremio addons for even more indexing. | ![Stremio Settings](/img/debrid-vault/setup-guide/movies-showes/stremio_settings.png) |
 | This is particularly helpful for finding the exact version of a file, especially for users managing **Plex servers**. | ![Stremio Show](/img/debrid-vault/setup-guide/movies-showes/stremio_show.png) |
+
+---
+
+## Stremio Cast Addon Integration
+| Feature Details | Configuration |
+| :--- | :--- |
+| **Send to Stremio:** Navigate to **Settings > Integrations > Generate Token** to create a unique DV Manifest URL already linked to your Debrid. Once installed in Stremio, a **TV Icon** will appear next to movies/shows to cast them directly. | ![Stremio Plugin](/img/debrid-vault/setup-guide/movies-showes/stremio_plugin.png) |
+| **Management & Support:** Manage or remove casted items via the **Stremio tab** on the **Video page**. Supports **Usenet and Web downloads** (via TorBox) with proper indexers. | **New Feature:** Use the Stremio tab to track all active streams. |
+| **Custom Catalogs (Optional):** Create lists inside DV to have them populate in Stremio as separate catalogs. If no lists are created, it defaults to **My Movie** or **My Shows**. | <video src="/img/debrid-vault/setup-guide/movies-showes/stremiocast.mp4" controls width="100%"></video> |
 
 ---
 
