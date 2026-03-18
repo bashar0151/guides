@@ -20,7 +20,9 @@ Invite up to 8 users to listen in perfect sync! Queue, skip, and pause together 
 Jam Sessions are fully polished on **iOS**. Android support is currently in active testing and remains in an unpolished state.
 :::
 
-<img src="/img/eclipse/features/jam.png" width="100%" style={{ borderRadius: '10px' }} />
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="/img/eclipse/features/jam.png" style={{ width: '100%', maxWidth: '250px', borderRadius: '10px' }} />
+</div>
 
 ---
 
@@ -31,9 +33,11 @@ The Social Tab aggregates listening history across the entire community to showc
 * **Universal Support:** Works seamlessly with both **Debrid** and **Tidal** sources.
 * **Leaderboards:** See which community members have the most liked playlists!
 
-<img src="/img/eclipse/features/social.png" width="100%" />
-<img src="/img/eclipse/features/share.png" width="100%" style={{ marginTop: '10px' }} />
-<img src="/img/eclipse/features/community.png" width="100%" style={{ marginTop: '10px' }} />
+<div style={{ display: 'flex', gap: '10px', justifyContent: 'center', flexWrap: 'wrap', marginTop: '20px' }}>
+  <img src="/img/eclipse/features/social.png" style={{ width: '100%', maxWidth: '250px', borderRadius: '10px' }} />
+  <img src="/img/eclipse/features/share.png" style={{ width: '100%', maxWidth: '250px', borderRadius: '10px' }} />
+  <img src="/img/eclipse/features/community.png" style={{ width: '100%', maxWidth: '250px', borderRadius: '10px' }} />
+</div>
 
 ---
 
