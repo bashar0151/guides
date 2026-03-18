@@ -73,15 +73,21 @@ Access **MP3 and FLAC/Lossless** streaming effortlessly. Eclipse merges your loc
 ### Animated Album Art
 Bring your library to life with motion. The UI dynamically adjusts its color palette to match the vibe of your music.
 
-<video controls width="100%" style={{ maxWidth: '400px', borderRadius: '15px', display: 'block', margin: '10px auto' }}>
-  <source src="/img/eclipse/features/animate-album-art.mov" type="video/quicktime" />
-</video>
+<div style={{ display: 'flex', justifyContent: 'center', margin: '10px 0' }}>
+  <video controls width="100%" style={{ maxWidth: '250px', borderRadius: '15px', border: '1px solid #333' }}>
+    <source src="/img/eclipse/features/animate-album-art.mov" type="video/quicktime" />
+    <source src="/img/eclipse/features/animate-album-art.mov" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### Full Screen & Lock Screen
 * **Lock Screen:** High-res artwork with native iOS/Android playback controls.
 * **Easter Eggs:** Discover hidden UI themes triggered by specific music franchises!
 
-<img src="/img/eclipse/features/fullscreen.jpg" width="100%" style={{ maxWidth: '600px', display: 'block', margin: '20px auto', borderRadius: '10px' }} />
+<div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
+  <img src="/img/eclipse/features/fullscreen.jpg" style={{ width: '100%', maxWidth: '250px', borderRadius: '15px' }} />
+</div>
 
 ---
 
