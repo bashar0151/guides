@@ -71,6 +71,12 @@ When you listen to a song, Last.fm scrobbles the song by recording the song's ti
 :::
 
 ![](/img/debrid-vault/setup-guide/image-1766933075950.png)
+![](/img/debrid-vault/setup-guide/pllexuiupdatesongs.png)
+![](/img/debrid-vault/setup-guide/pllexuiupdatealbums.png)
+![](/img/debrid-vault/setup-guide/pllexuiupdateartitsts.png)
+
+
+
 
 ### Account
 
