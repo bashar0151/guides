@@ -1,8 +1,3 @@
----
-sidebar_position: 2
-sidebar_label: 'Unofficial Android Auto'
----
-
 # iOS
 
 This guide provides a quick setup guide for the **Eclipse** mobile app.
