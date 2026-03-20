@@ -31,16 +31,16 @@ Thank you for donating! Your support directly helps with the development!
 2. Navigate to **Settings**, then click the **Accounts** tab.
 3. Scroll down to the **Mobile App Access** section.
 4. Type a name for your API key (e.g., "Eclipse Mobile") and click **Create**.
-<img src="/img/eclipse/setup-guide/image-1768236161834.png" style="max-width: 100%; height: auto;" alt="API Key Setup" />
+<img src="/img/eclipse/setup-guide/image-1768236161834.png" style={{ maxWidth: '100%', height: 'auto' }} alt="API Key Setup" />
 
 5. **Copy your API key**, then click the **'I've saved the key'** button. Keep it handy to enter the generated API in the Eclipse Addon.
 6. Sign up to the Eclipse Music App. The link to the Eclipse Addon is located in the useful tools section on your Debrid Vault (DV) homepage [Debrid Vault Useful Tools](https://debridvault.elfhosted.com/tools).
-<img src="/img/eclipse/setup-guide/eclipse-addon-loginn-page.png" style="max-width: 100%; height: auto;" alt="Eclipse Addon Login" />
+<img src="/img/eclipse/setup-guide/eclipse-addon-loginn-page.png" style={{ maxWidth: '100%', height: 'auto' }} alt="Eclipse Addon Login" />
 
 7. On the Eclipse Addon setup page, enter your API keys and click on connect for **Cloud Storage** and **Music Search**. 
 
-<img src="/img/eclipse/setup-guide/eclipseaddonapi.png" style="max-width: 100%; height: auto;" alt="Eclipse Addon API Key Information" />
-<img src="/img/eclipse/setup-guide/ioseclipsemsuicaddonfinal.png" style="max-width: 100%; height: auto;" alt="Eclipse Addon API Key Information" />
+<img src="/img/eclipse/setup-guide/eclipseaddonapi.png" style={{ maxWidth: '100%', height: 'auto' }} alt="Eclipse Addon API Key Information" />
+<img src="/img/eclipse/setup-guide/ioseclipsemsuicaddonfinal.png" style={{ maxWidth: '100%', height: 'auto' }} alt="Eclipse Addon API Key Information" />
 
 
 | Section | Required Information |
@@ -51,12 +51,12 @@ Thank you for donating! Your support directly helps with the development!
 
 8. Connect your manifest URL into Eclipse in **Settings** -> **Cloud Storage** -> **Add Connection** -> **Cloud**.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/img/eclipse/setup-guide/1_settings.png" style="width: 150px; height: auto;" alt="Step 1" />
-  <img src="/img/eclipse/setup-guide/2_add_connection.png" style="width: 150px; height: auto;" alt="Step 2" />
-  <img src="/img/eclipse/setup-guide/3_connections.png" style="width: 150px; height: auto;" alt="Step 3" />
-  <img src="/img/eclipse/setup-guide/4_cloud_paste_manifest_url.png" style="width: 150px; height: auto;" alt="Step 4" />
-  <img src="/img/eclipse/setup-guide/5-connected.png" style="width: 150px; height: auto;" alt="Step 5" />
+<div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', justifyContent: 'center' }}>
+  <img src="/img/eclipse/setup-guide/1_settings.png" style={{ width: '150px', height: 'auto' }} alt="Step 1" />
+  <img src="/img/eclipse/setup-guide/2_add_connection.png" style={{ width: '150px', height: 'auto' }} alt="Step 2" />
+  <img src="/img/eclipse/setup-guide/3_connections.png" style={{ width: '150px', height: 'auto' }} alt="Step 3" />
+  <img src="/img/eclipse/setup-guide/4_cloud_paste_manifest_url.png" style={{ width: '150px', height: 'auto' }} alt="Step 4" />
+  <img src="/img/eclipse/setup-guide/5-connected.png" style={{ width: '150px', height: 'auto' }} alt="Step 5" />
 </div>
 
 ---
@@ -73,9 +73,9 @@ We are still waiting for Apple to approve Eclipse for public testing in TestFlig
 3. Open **Eclipse** and sign in.
 4. Tap the **Settings** icon on the bottom navigation bar.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/img/eclipse/setup-guide/image-1768239155747.jpeg" style="width: 250px; height: auto;" alt="Eclipse App Icon" /> 
-  <img src="/img/eclipse/setup-guide/image-1768239309799.png" style="width: 250px; height: auto;" alt="Sign in page" />
+<div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', justifyContent: 'center' }}>
+  <img src="/img/eclipse/setup-guide/image-1768239155747.jpeg" style={{ width: '250px', height: 'auto' }} alt="Eclipse App Icon" /> 
+  <img src="/img/eclipse/setup-guide/image-1768239309799.png" style={{ width: '250px', height: 'auto' }} alt="Sign in page" />
 </div>
 
 ---

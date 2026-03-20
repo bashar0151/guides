@@ -75,4 +75,3 @@ To install the APK, you will need to allow **"Install from unknown sources"** in
 :::warning Under Maintenance
 This guide is currently under maintenance. Android screenshots will be added soon and more!
 :::
-
