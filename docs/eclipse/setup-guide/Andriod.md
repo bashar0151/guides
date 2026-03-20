@@ -1,14 +1,12 @@
 # Setup Guide: Debrid Vault & Eclipse
 
-This guide provides a quick to setting up guide with **Eclipse** mobile app.
+This guide provides a quick to setting up guide with **Eclipse** andriod mobile app.
 
 ---
 
 ## Requirements 
 
 * **Debrid Vault Account:** You will need to have a registered Debrid Vault accound  [Debrid Vault/Setup Guide](../../debrid-vault/setup-guide/index.md).
-
-* **TestFlight Invitation:** Currently, access is limited to VIPs/donors [Ko-fi](https://ko-fi.com/doctor98who).
 
 :::danger
 **Donors:** Please make sure to include your Discord username in the donation note or DM **doctor** on the [Discord](https://discord.gg/A8j4c42sdY) so you can be assigned the appropriate role for testing Eclipse to receive a TestFlight invite.
@@ -36,17 +34,20 @@ Thank you for donating! Your support helps with the development!
 
 ---
 
-### Mobile App Installation
+### Andriod Mobile App Installation
 
 :::info
-You must receive an invitation from **doctor** to download and install Eclipse. Currently, this is for donors only. Make sure to include your Discord username or DM doctor.
-We are still waitinng for Apple to apprive Eclipse for public testing in Testflight which gives us 10k slots.
+To access the APK for Eclipse, you will need to reuqest for the Andirod testing role on discord . Once you have the relvent 'Andriod' role, you can downlaod the APK form the relvent Cahannel.
 :::
 
-1. Once you receive the invite, follow the instructions in your email to get **TestFlight** set up.
-2. Ensure the TestFlight app is installed on your mobile device; this is where you will download and update Eclipse.
+1. Once you receive the role, head to the channel to download and install the APK
 3. Open **Eclipse** and sign in.
 4. Tap the **Settings** icon on the bottom navigation bar.
+
+:::tip Sideloading APKs
+To install the APK, you will need to allow **"Install from unknown sources"** in your device settings.
+ [official Google Android Help guide](https://support.google.com/android/answer/3024190).
+:::
 
 <img src="/img/eclipse/setup-guide/image-1768239155747.jpeg" width="300" alt="Eclipse App Icon" /> <img src="/img/eclipse/setup-guide/image-1768239309799.png" width="300" alt="Sign in page" />
     
@@ -70,3 +71,8 @@ We are still waitinng for Apple to apprive Eclipse for public testing in Testfli
 ---
 
 **Enjoy!** You are all set up and ready to use Eclipse.
+
+:::warning Under Maintenance
+This guide is currently under maintenance. Android screenshots will be added soon and more!
+:::
+
