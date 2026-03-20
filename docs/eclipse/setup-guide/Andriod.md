@@ -1,4 +1,4 @@
-# Setup Guide: Debrid Vault & Eclipse
+# Andriod
 
 This guide provides a quick to setting up guide with **Eclipse** andriod mobile app.
 
