@@ -46,7 +46,7 @@ If you are interested in using Debrid Vault (Web Debrid Media Manager), I would 
 **Debrid Vault Link:** https://debridvault.elfhosted.com/
 
 :::note
-**Eclipse Mobile App:** An iOS version of the mobile app will be available on **TestFlight** soon for Donors to test. If you would like to support the project and gain access, you can donate here: [ko-fi.com/doctor98who](https://ko-fi.com/doctor98who) - A guide coming soon on how to set up Eclipse iOS.
+**Eclipse Mobile App:** An iOS version of the mobile app will be available on **TestFlight** soon for Donors to test. If you would like to support the project, you can donate here: [Ko-fi](https://ko-fi.com/debridvault) or [Patreon](https://ko-fi.com/debridvault).
 :::
 
 ## What Features Does it Have?

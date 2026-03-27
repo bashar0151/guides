@@ -40,8 +40,12 @@ Take your music on the road with **CarPlay integration**. Supports native contro
 ## Android Support
 
 :::note Coming Soon
-An Android version is in development! Join the Discord for beta testing opportunities.
+An Android version is in closed beta and wave of invites to try the apk is being rolled out, Join the Discord for beta testing opportunities.
 :::
+
+## Anndriod Auto
+
+Take your music on the road with **Andriod auto integration**. Supports native control and a simplified UI for safe driving.
 
 ---
 

@@ -8,10 +8,6 @@ This guide provides a quick to setting up guide with **Eclipse** andriod mobile 
 
 * **Debrid Vault Account:** You will need to have a registered Debrid Vault accound  [Debrid Vault/Setup Guide](../../debrid-vault/setup-guide/index.md).
 
-:::danger
-**Donors:** Please make sure to include your Discord username in the donation note or DM **doctor** on the [Discord](https://discord.gg/A8j4c42sdY) so you can be assigned the appropriate role for testing Eclipse to receive a TestFlight invite.
-:::
-
 ---
 
 ## Thank You

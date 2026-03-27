@@ -83,10 +83,10 @@ The app is currently in the final stages of the Apple approval process!
 * **Wave 2:** General testing batches will open to the public approximately 2 weeks after the initial launch.
 
 :::tip
-**Get Early Access:** Development is fueled by the community. To support the project and get into the first wave of invites, visit our [Pateron page](https://patreon.com/doctor98who?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
+**Get Early Access:** Development is fueled by the community. To support the project and get into the first wave of invites, visit our  [Ko-fi](https://ko-fi.com/debridvault) or [Patreon](https://ko-fi.com/debridvault).
 :::
 
 ---
 
 ### Special Thanks
-A massive shoutout to **Doctor**, the developer of Eclipse and Debrid Vault. Fancy buying him a coffee [Pateron page](https://patreon.com/doctor98who?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) or using his referral to buy a [TrBox Subscription](https://torbox.app/subscription?referral=3c161a04-9201-4ef5-87fb-d91c4ee13d2e) (Referral code: 3c161a04-9201-4ef5-87fb-d91c4ee13d2e).
+A massive shoutout to **Doctor**, the developer of Eclipse and Debrid Vault. Fancy buying him a coffee  [Ko-fi](https://ko-fi.com/debridvault), [Patreon](https://ko-fi.com/debridvault). or using his referral to buy a [TrBox Subscription](https://torbox.app/subscription?referral=3c161a04-9201-4ef5-87fb-d91c4ee13d2e) (Referral code: 3c161a04-9201-4ef5-87fb-d91c4ee13d2e).

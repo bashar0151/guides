@@ -7,7 +7,7 @@ This guide provides a quick setup guide for the **Eclipse** mobile app.
 ## Requirements 
 
 * **Debrid Vault Account:** You will need to have a registered Debrid Vault account [Debrid Vault Setup Guide](../../debrid-vault/setup-guide/index.md).
-* **TestFlight Invitation:** Currently, access is limited to VIPs/donors [Ko-fi](https://ko-fi.com/doctor98who).
+* **TestFlight Invitation:** Currently, access is limited to VIPs/donors [Ko-fi](https://ko-fi.com/debridvault) or [Patreon](https://ko-fi.com/debridvault).
 * **Signup Music Eclipse Addon:** You will need to sign up to the Eclipse Music Addon to obtain the URL manifest you need to link to your Eclipse mobile app. Please see setup instructions below.
 
 :::danger
@@ -24,7 +24,35 @@ Thank you for donating! Your support directly helps with the development!
 
 ---
 
-## Setup Instructions
+# ** OFFICIAL SETUP GUIDE**
+
+:::info Account Creation
+1. Go to https://api.eclipsemusic.app/configure and create an account (**THIS WILL BE THE SAME ACCOUNT YOU LOG INTO ECLIPSE, THIS IS NOT YOUR DEBRID VAULT ACCOUNT. YOU MUST CREATE A FRESH ACCOUNT**)
+:::
+
+2. Once logged in, input your torbox API key (if you dont have torbox skip this step and only input the debrid vault part, you can still use the app withour debrid, just won’t be able to utilize debrid functions) into the cloud storage section. In music search for url type in `https://debridvault.elfhosted.com/` and for api key, get on from your Debrid Vault Account settings, you can create one and input it. Once these are inputted generate a manifest URL
+
+3. Go to eclipse, log in with same log in info. Go to **Settings** -> **CloudStorage** -> **Add Connection** -> **Cloud** ... here pasted the manifest url and connect
+
+4. Once connected you will see **SIMPLE** mode and **ADVANCED MODE**. Simple mode allows u to just stream and not worry. just make sure to enable stream mode for it like apple music for example. ADVANCED MODE gives you more thigns to play with and lets u select search provider in serach tab. **iTUNES/SPOTIFY** are for torrent/usenet searching **YT MUSIC and SOUNDCLOUD** are for WEB DOWNLOADS VIA TORBOX. 
+
+5. Within these settings in cloud you will see options to enable animated art and all that good stuff.
+
+6. When set up if you have stuff in Debrid Section you can tap on 3 dot context menu and edit info and apply metadata. You can also apply embedded metadata by running an extract. 
+
+---
+
+### **SIDE NOTES**
+
+* You can select quality for stream mode
+* HI-RES doesnt work on tidal
+* LastFM integration exists
+* There are other settings like crossfade, loudness normalization, equlaizer, lyric offset etc
+
+---
+
+
+## BASH'S Setup Instructions
 
 ### Create your API Keys and Link to Eclipse
 1. Log in to your [Debrid Vault account](https://debridvault.elfhosted.com/settings).
@@ -64,8 +92,7 @@ Thank you for donating! Your support directly helps with the development!
 ### Mobile App Installation
 
 :::info
-You must receive an invitation from **doctor** to download and install Eclipse. Currently, this is for donors only. Make sure to include your Discord username or DM doctor.
-We are still waiting for Apple to approve Eclipse for public testing in TestFlight, which gives us 10,000 slots.
+Apple have nowapprove Eclipse for public testing in TestFlight, you can now enroll to use is on you device.
 :::
 
 1. Once you receive the invite, follow the instructions in your email to get **TestFlight** set up.
