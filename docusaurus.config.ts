@@ -40,7 +40,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/bashar/aio-guides/tree/main/',
+          editUrl: 'https://github.com/bashar0151/guides',
           routeBasePath: '/',
           showLastUpdateAuthor: true, 
           showLastUpdateTime: true,
