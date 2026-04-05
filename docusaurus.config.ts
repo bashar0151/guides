@@ -40,7 +40,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://raw.githubusercontent.com/bashar0151/guides/refs/heads/main/docs/',
+          editUrl: 'https://github.com/bashar0151/guides/edit/main/',
           routeBasePath: '/',
           showLastUpdateAuthor: true, 
           showLastUpdateTime: true,
