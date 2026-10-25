@@ -42,8 +42,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/bashar0151/guides/edit/main/',
           routeBasePath: '/',
-          showLastUpdateAuthor: false, 
-          showLastUpdateTime: false,
+          showLastUpdateAuthor: true, 
+          showLastUpdateTime: true,
         },
         // Blog is now disabled
         blog: false, 
