@@ -28,3 +28,7 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/bashar0151/guides:latest
+
+      - name: Tell Coolify to deploy
+        run: |
+          curl -fsS -H "Authorization: Bearer ${{ secrets.COOLIFY_TOKEN }}" "${{ secrets.COOLIFY_WEBHOOK }}"  
