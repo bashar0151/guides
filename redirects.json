@@ -1,0 +1,17 @@
+[
+  {
+    "source": "/eclipse/featureslist/Ecosystem%20&%20Connectivity",
+    "destination": "/eclipse/featureslist/Ecosystem-and-Connectivity",
+    "permanent": true
+  },
+  {
+    "source": "/eclipse/featureslist/Library%20&%20Organisation",
+    "destination": "/eclipse/featureslist/Library-and-Organisation",
+    "permanent": true
+  },
+  {
+    "source": "/eclipse/featureslist/playback%20&%20Experience",
+    "destination": "/eclipse/featureslist/playback-and-Experience",
+    "permanent": true
+  }
+]
