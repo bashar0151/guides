@@ -1,10 +1,10 @@
 name: Build and deploy wiki
 on:
   push:
-    branches: [main]
+    branches: [main, fumadocs]
   workflow_dispatch:
 concurrency:
-  group: deploy-wiki
+  group: deploy-wiki-${{ github.ref_name }}
   cancel-in-progress: true
 permissions:
   contents: read
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0          # full history for "last modified"
+          fetch-depth: 0
       - uses: docker/setup-buildx-action@v3
       - uses: docker/login-action@v3
         with:
@@ -27,10 +27,11 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/bashar0151/guides:latest
+            ghcr.io/bashar0151/guides:${{ github.ref_name == 'main' && 'latest' || 'next' }}
             ghcr.io/bashar0151/guides:${{ github.sha }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
-      - name: Tell Coolify to deploy
+      - name: Tell Coolify to deploy (live site, main only)
+        if: github.ref_name == 'main'
         run: |
           curl -fsS -X POST -H "Authorization: Bearer ${{ secrets.COOLIFY_TOKEN }}" "${{ secrets.COOLIFY_WEBHOOK }}"
