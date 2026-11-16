@@ -13,5 +13,20 @@
     "source": "/eclipse/featureslist/playback%20&%20Experience",
     "destination": "/eclipse/featureslist/playback-and-Experience",
     "permanent": true
+  },
+  {
+    "source": "/eclipse/setup-guide/Andriod",
+    "destination": "/eclipse/setup-guide/Android",
+    "permanent": true
+  },
+  {
+    "source": "/eclipse/setup-guide/external-server-intergration",
+    "destination": "/eclipse/setup-guide/external-server-integration",
+    "permanent": true
+  },
+  {
+    "source": "/debrid-vault/movies-showes",
+    "destination": "/debrid-vault/movies-shows",
+    "permanent": true
   }
 ]
