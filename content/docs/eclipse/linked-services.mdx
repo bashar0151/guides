@@ -1,0 +1,46 @@
+---
+title: "Import Music"
+description: "Import and sync your playlists and liked tracks from supported music streaming services directly into Eclipse."
+---
+
+import { Step, Steps } from 'fumadocs-ui/components/steps';
+
+Moving over from another streaming platform? You can import your existing playlists and liked tracks directly into Eclipse—and keep them automatically synced whenever you add new music.
+
+**Currently Supported Services:**
+* **Spotify**
+* **YouTube Music**
+
+---
+
+## How to Import & Sync Your Music
+
+<Steps>
+  <Step title="Open Linked Services">
+    In Eclipse, go to **Settings** > **Integrations** > **Linked services**.
+  </Step>
+  <Step title="Connect Your Streaming Account">
+    Select your streaming provider (**Spotify** or **YouTube Music**) and sign in to link your account.
+    *Verification:* Your account name appears under the service header along with a timestamp showing when it was last synced.
+  </Step>
+  <Step title="Trigger a Manual Sync (Optional)">
+    Tap **Sync now** at any time to immediately pull in newly added playlists or liked tracks, or tap **Disconnect** to unlink your account.
+  </Step>
+</Steps>
+
+---
+
+## Sync Settings & Controls
+
+Once connected, you can customize what gets imported and how your library stays updated:
+
+### **Synced Playlists**
+* Tap **Show** next to **Synced playlists** to choose which individual playlists are imported and continue receiving newly added tracks.
+
+### **Add Liked Songs to Favorites**
+* Toggle on **Add liked songs to Favorites** to automatically mirror tracks you like on your streaming service into your **Eclipse Favorites**.
+* **Safe Sync Behavior:** If you unlike a track on your linked streaming account, it is also removed from your Eclipse Favorites—however, tracks you favorited natively inside Eclipse are **never removed**.
+* **Library Cap:** For large libraries, Eclipse imports up to the **newest 5,000 liked songs**.
+
+### **Use Linked Services in Umbra DJ**
+* Enable **Use linked services in Umbra DJ** to share your top artists with your configured AI provider for more personalized mixes and recommendations.

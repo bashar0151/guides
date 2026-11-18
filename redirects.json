@@ -28,5 +28,10 @@
     "source": "/debrid-vault/movies-showes",
     "destination": "/debrid-vault/movies-shows",
     "permanent": true
+  },
+  {
+    "source": "/debrid-vault/unofficial-android-auto-setup",
+    "destination": "/eclipse/featureslist/Ecosystem-and-Connectivity",
+    "permanent": false
   }
 ]

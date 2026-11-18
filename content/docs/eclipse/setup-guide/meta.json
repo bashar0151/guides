@@ -1,9 +1,7 @@
 {
-  "title": "Eclipse Setup Guides",
+  "title": "Setup Guide",
   "pages": [
     "index",
-    "Android",
-    "external-server-integration",
-    "iOS"
+    "install-app-from-unknown-sources-on-android-device"
   ]
 }

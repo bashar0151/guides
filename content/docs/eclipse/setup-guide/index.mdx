@@ -1,20 +1,128 @@
 ---
-title: "Setup Guide: Debrid Vault & Eclipse"
+title: "Setup Guide"
+description: "Step-by-step instructions to install Eclipse and link your media sources across all platforms."
 ---
-Eclipse currently supports iOS and Android. For the time being, the setup process is slightly different between the two platforms. Below are links to the relevant setup guides to get started using Eclipse officially.
 
-* **iOS:** [iOS Setup Guide](/eclipse/setup-guide/iOS)
-* **Android:** [Android Setup Guide](/eclipse/setup-guide/Android)
+import { Step, Steps } from 'fumadocs-ui/components/steps';
 
+Welcome to Eclipse! Follow this unified guide to install the app on your device, link your music sources, and configure your cloud storage.
 
-## Thank You
+---
 
-<Callout type="success">
+## Prerequisites
 
-Thank you for donating! Your support directly helps with the ongoing development of this project.
+Before setting up the app, make sure you have:
+1. **Debrid Vault Account:** Registered and active.
+2. **Debrid Vault API Key:** Created via your Debrid Vault account under **Settings > Accounts > Mobile App Access**
 
- [Ko-fi](https://ko-fi.com/debridvault) 
+---
 
- [Patreon](https://ko-fi.com/debridvault).
+## Step 1: Install Eclipse
 
+Choose your platform below to get the app installed:
+
+### **iOS (iPhone, iPad, Mac)**
+<Steps>
+  <Step title="Get the App">
+    Access Eclipse via the official **App Store** or **TestFlight** invite links at [eclipsemusic.app/download](https://eclipsemusic.app/download).
+    *Verification:* TestFlight or the App Store shows the download option for Eclipse.
+  </Step>
+  <Step title="Sign In">
+    Install the app on your device and sign in with your Eclipse account credentials.
+    *Verification:* You arrive at the main Eclipse home interface.
+  </Step>
+</Steps>
+
+### **Android Phones & Tablets**
+<Steps>
+  <Step title="Download APK">
+    Download the latest Android APK directly from [eclipsemusic.app/download](https://eclipsemusic.app/download).
+  </Step>
+  <Step title="Allow Unknown Sources">
+    Ensure your device allows [**"Install from unknown sources"**](/eclipse/setup-guide/install-app-from-unknown-sources-on-android-device) in your Android security settings.
+  </Step>
+  <Step title="Install and Open">
+    Run the downloaded APK to install Eclipse, then open the app and sign in.
+    *Verification:* The app launches successfully and allows sign-in.
+  </Step>
+</Steps>
+
+### **Android TV, Google TV & Fire TV**
+<Steps>
+  <Step title="Open Downloader">
+    Open the **Downloader** app on your TV platform.
+  </Step>
+  <Step title="Enter Code">
+    Enter Downloader code **`1267304`** to fetch and install the Eclipse TV APK.
+  </Step>
+  <Step title="Grant TV Permissions">
+    Ensure your TV system settings allow the Downloader app to [**"Install from unknown sources"**](/eclipse/setup-guide/install-app-from-unknown-sources-on-android-device).
+    *Verification:* The Eclipse TV app installs and appears in your television's app drawer.
+  </Step>
+</Steps>
+
+---
+
+## Step 2: Link Add-ons & Music Sources
+
+To stream music and pull catalogs into your library:
+
+<Steps>
+  <Step title="Generate Manifest URL">
+    Visit the **Eclipse Add-ons** page to select your media sources, customize preferences, and generate your custom **Manifest URL**.
+  </Step>
+  <Step title="Open Settings">
+    Open Eclipse on your device and tap the **Settings (gear) icon** in the top-right corner.
+  </Step>
+  <Step title="Add Connection">
+    Navigate to **Cloud Storage** > **Add Connection** > **Cloud**.
+  </Step>
+  <Step title="Paste and Connect">
+    Paste your Manifest URL and hit **Connect**. 
+    *Verification:* Your playlists and library sources sync and appear instantly.
+  </Step>
+</Steps>
+
+---
+
+## Step 3: Connect Cloud Servers & Personal Media
+
+You can connect external storage and personal media servers using the same connection menu:
+
+<Steps>
+  <Step title="Access Cloud Storage">
+    Go to **Settings** > **Cloud Storage** > **Add Connection** in the app.
+  </Step>
+  <Step title="Select Server Type">
+    Choose your server type from the options available—including **Plex, Jellyfin, WebDAV, or Google Drive**.
+  </Step>
+  <Step title="Authenticate">
+    Sign in with your server credentials. 
+    *Verification:* Once authenticated, your personal media appears directly under your library sources tab.
+  </Step>
+</Steps>
+
+---
+
+## Step 4: Link Apple Music (Optional)
+
+If you have an active Apple Music subscription, follow these steps:
+
+<Steps>
+  <Step title="Navigate to Integrations">
+    Open Eclipse and go to **Settings** > **Integrations** > **Apple Music**.
+  </Step>
+  <Step title="Sign In">
+    Sign in with your Apple ID account credentials.
+  </Step>
+  <Step title="Enable Streaming">
+    Enable streaming to enjoy your subscription tracks in **Lossless and Dolby Atmos quality** directly inside Eclipse.
+    *Verification:* Apple Music tracks stream successfully with high-res options available.
+  </Step>
+</Steps>
+
+---
+
+<Callout type="success" title="All Set!">
+You are fully configured and ready to enjoy your unified music library across all your devices. Join the community on Discord if you need further help!
 </Callout>

@@ -2,8 +2,14 @@
   "title": "Eclipse",
   "pages": [
     "index",
-    "featureslist",
     "setup-guide",
-    "home-page"
+    "home-page",
+    "Library-and-Organisation",
+    "playback-and-Experience",
+    "customization-and-skins",
+    "Ecosystem-and-Connectivity",
+    "addons",
+    "linked-services",
+    "support-the-project"
   ]
 }

@@ -1,0 +1,94 @@
+---
+title: "Eclipse Addons"
+---
+
+import { Step, Steps } from 'fumadocs-ui/components/steps';
+
+Add-ons are where your music catalogs come from. They live on your account, so every Eclipse app you sign in to automatically syncs and gets the exact same sources.
+
+---
+
+## Add-on Architecture & Store
+Using a flexible manifest-style system, Eclipse lets you pull source catalogs directly into your application. 
+
+- **Built-in Add-on Store:** Browse and discover available music sources directly inside the app's **Add-on Store**.
+- **App & Web Management:** Manage, configure, and reorder your add-ons either directly in the Eclipse app or via your web account dashboard. Switch between **Simple** or **Advanced** modes to customize priority chains for primary and secondary data.
+
+### Manual Installation Instructions
+To install custom or third-party add-ons via manifest URL:
+
+<Steps>
+  <Step>
+    ### Open the App
+    Launch the Eclipse application on your device.
+  </Step>
+  <Step>
+    ### Navigate to Settings
+    Open **Settings** by tapping the cog wheel icon.
+  </Step>
+  <Step>
+    ### Access Music Sources
+    Select **Music Sources** from the menu options.
+  </Step>
+  <Step>
+    ### Open Connections
+    Tap **Connections**, then select **Add Connections**.
+  </Step>
+  <Step>
+    ### Select Cloud
+    Choose **Cloud** as your connection type.
+  </Step>
+  <Step>
+    ### Paste and Connect
+    Paste the manifest URL from your chosen add-on source and hit **Connect** to save.
+  </Step>
+</Steps>
+
+---
+
+## Supported Add-ons
+
+| Add-on / Feature | Description | Link / Action |
+| :--- | :--- | :--- |
+| **Doc's Addon** | Premium add-on unlocked automatically for supporting the project, giving you access to curated catalogs and high-priority streaming nodes. | [Manage Support & Unlock](https://eclipsemusic.app/account#support) |
+
+<Callout type="info" title="Direct Website Installation">
+Supported add-ons can also be added and managed directly through your account dashboard at [eclipsemusic.app/account#support](https://eclipsemusic.app/account#support) without needing to manually enter a manifest URL in the app settings.
+</Callout>
+
+---
+
+## Official & Curated Catalogs
+
+There is no single "best" add-on; feel free to test different options and reorder priorities to see what fits your setup best!
+
+- **Eclipse Music:** OG Addon, "ole reliable". Works great with no issues. Note: Does not support Dolby Atmos.
+- **Pulsar (Amazon):** Features Dolby Atmos support and a distinct source catalog.
+- **Gravity (Apple Music):** Features ALAC (Apple Lossless) audio, Dolby support, and a unique catalog (a community favorite).
+
+---
+
+## Community & Third-Party Add-on Directory
+
+| Add-on Name | Category / Requirements | Description | Manifest / Link |
+| :--- | :--- | :--- | :--- |
+| **Aero** | TorBox (Paid) | Ultra-fast, free add-on with a massive multi-region catalogue. Engineered to achieve playback within 4 seconds for cached and uncached tracks. Requires debrid. | [Manifest URL](https://aero.pandoric.dpdns.org/) |
+| **Nebula** | TorBox (Paid) | Replacement for the old vault add-on. Links to your TorBox account to help build your library and automatically airlocks tracks if they are not already cached. | [Manifest URL](https://nebula.eclipsemusic.app/) |
+| **Nullbeat** | TorBox (Paid) | TorBox-backed integration supporting high-speed streaming and airlocking backup routines. | [Manifest URL](https://nullbeat.thevolecitor.qzz.io/) |
+| **Internet Archive** | Free Catalog | Search and stream music, live concerts, audiobooks, old-time radio, and podcasts from archive.org. Prefers lossless FLAC/WAV. | [Manifest URL](https://internetarchive.rickyaddons.dpdns.org/) |
+| **Deez (Ricky)** | Personal ARL | Full-quality Deezer streaming inside Eclipse using your own private ARL token and account, tuned to your maximum entitled quality. | [Manifest URL](https://deezer.rickyaddons.dpdns.org/) |
+| **UltraMax** | Sandbox / Info | Sandbox integration featuring custom configurations and extended media options. | [Link](https://ultramax.vip/eclipse-info.html) |
+| **Tido** | Ricky Addons | Community-maintained music source catalog. | [Manifest URL](https://tido.tido.tido.rickyaddons.dpdns.org/) |
+| **Unreleased Grid** | Community Grid | Community catalog indexing unreleased tracks, alternate mixes, and custom studio sessions. | [Manifest URL](https://artistgrid-eclipse-addon.eclipse-artistgrid-addon.workers.dev/manifest.json) |
+| **iOS YouTube Music** | Doc Addon | YouTube Music integration tailored for iOS environments. | [Manifest URL](https://ytm.eclipsemusic.app/) |
+| **SoundCloud** | Doc Addon | Official SoundCloud catalogue integration by Doc. | [Manifest URL](https://sc.eclipsemusic.app/) |
+
+---
+
+<Callout type="warn" title="Important Note on TorBox Airlocking (Aero, Nebula, & Nullbeat)">
+You might hesitate to use airlocking or clear files out of fear that it will break your setup, but please keep the following in mind:
+
+* **Storage Capacity:** Even on an Essential plan with lossless tracks, it takes roughly **10,000 different tracks** to fill your airlock storage (scaling up to 17k on Standard and 34k on Pro).
+* **What happens when full?** Nothing breaks. No warnings or errors appear. TorBox and your add-ons will continue to function normally. The only restriction is that new airlocks are blocked, but you can still play new songs seamlessly. 
+* **Our Recommendation:** Please do not delete airlocked tracks or clear files from your account. Deleting them makes your experience worse, not better!
+</Callout>

@@ -12,6 +12,7 @@ import { getMDXComponents } from '@/components/mdx';
 import type { Metadata } from 'next';
 import { createRelativeLink } from 'fumadocs-ui/mdx';
 import { getPageImageUrl, gitConfig } from '@/lib/shared';
+import { PageFeedback } from '@/components/feedback';
 
 export default async function Page(props: PageProps<'/[[...slug]]'>) {
   const params = await props.params;
@@ -35,11 +36,17 @@ export default async function Page(props: PageProps<'/[[...slug]]'>) {
       <DocsBody>
         <MDX
           components={getMDXComponents({
-            // this allows you to link to other pages with relative file paths
             a: createRelativeLink(source, page),
           })}
         />
       </DocsBody>
+
+      {/* Interactive Page Feedback Widget Component */}
+      <PageFeedback 
+        title={page.data.title} 
+        githubUser={gitConfig.user} 
+        githubRepo={gitConfig.repo} 
+      />
     </DocsPage>
   );
 }
