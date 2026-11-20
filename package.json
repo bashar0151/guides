@@ -10,6 +10,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^4.0.121",
+    "@ai-sdk/react": "^4.0.180",
+    "ai": "^7.0.176",
     "cn": "^0.5.2",
     "fumadocs-core": "16.19.3",
     "fumadocs-mdx": "15.6.2",
@@ -25,11 +28,14 @@
     "@types/node": "^26.6.6",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
-    "postcss": "^8.5.32",
-    "tailwindcss": "^4.3.5",
-    "typescript": "npm:@typescript/typescript6@^6.0.2",
     "@typescript/native": "npm:typescript@^7.0.2",
     "eslint": "^9.39.4",
-    "eslint-config-next": "16.4.6"
+    "eslint-config-next": "16.4.6",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^4.3.5",
+    "typescript": "npm:@typescript/typescript6@^6.0.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
   }
 }
