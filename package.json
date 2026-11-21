@@ -10,9 +10,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^4.0.121",
-    "@ai-sdk/react": "^4.0.180",
-    "ai": "^7.0.176",
     "cn": "^0.5.2",
     "fumadocs-core": "16.19.3",
     "fumadocs-mdx": "15.6.2",

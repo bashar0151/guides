@@ -13,7 +13,6 @@ import type { Metadata } from 'next';
 import { createRelativeLink } from 'fumadocs-ui/mdx';
 import { getPageImageUrl, gitConfig } from '@/lib/shared';
 import { PageFeedback } from '@/components/feedback';
-import AIChat from '@/components/AIChat'; // 1. Import your AI chat component
 
 export default async function Page(props: PageProps<'/[[...slug]]'>) {
   const params = await props.params;
@@ -43,7 +42,6 @@ export default async function Page(props: PageProps<'/[[...slug]]'>) {
 
         {/* 2. Add the AI chat box below your documentation content */}
         <div className="mt-12 border-t pt-6">
-          <AIChat />
         </div>
       </DocsBody>
 
