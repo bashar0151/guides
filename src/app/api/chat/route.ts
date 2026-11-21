@@ -1,5 +1,11 @@
 import { createOpenAI } from '@ai-sdk/openai';
-import { streamText, convertToModelMessages } from 'ai';
+import {
+  streamText,
+  convertToModelMessages,
+  createUIMessageStreamResponse,
+  toUIMessageStream,
+  type UIMessage,
+} from 'ai';
 
 export const maxDuration = 30;
 
@@ -9,16 +15,18 @@ const openrouter = createOpenAI({
 });
 
 export async function POST(req: Request) {
-  const { messages } = await req.json();
+  const { messages } = (await req.json()) as { messages: UIMessage[] };
 
   const result = streamText({
     model: openrouter.chat('deepseek/deepseek-v4.1-flash'),
-    system:
+    instructions:
       'You answer questions about the Eclipse music app and Debrid Vault using this wiki. ' +
-      'If you are not sure of an answer, say so and point to the Discord (https://discord.gg/A2KrtxH653).',
+      'If you are not sure, say so and point to the Discord (https://discord.gg/A2KrtxH653).',
     messages: await convertToModelMessages(messages),
     maxOutputTokens: 600,
   });
 
-  return result.toUIMessageStreamResponse();
+  return createUIMessageStreamResponse({
+    stream: toUIMessageStream({ stream: result.stream }),
+  });
 }
