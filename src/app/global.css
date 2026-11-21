@@ -10,3 +10,41 @@ html > body[data-scroll-locked] {
   margin-right: 0px !important;
   --removed-body-scroll-bar-size: 0px !important;
 }
+
+@keyframes seasonal-fall {
+  0% {
+    transform: translate3d(0, -10vh, 0) rotate(0deg);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.9;
+  }
+  85% {
+    opacity: 0.9;
+  }
+  100% {
+    transform: translate3d(24px, 105vh, 0) rotate(180deg);
+    opacity: 0;
+  }
+}
+
+@keyframes seasonal-rise {
+  0% {
+    transform: translate3d(0, 105vh, 0) scale(0.8);
+    opacity: 0;
+  }
+  20% {
+    opacity: 0.9;
+  }
+  100% {
+    transform: translate3d(-18px, -10vh, 0) scale(1.1);
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .seasonal-particle {
+    animation: none !important;
+    display: none !important;
+  }
+}
