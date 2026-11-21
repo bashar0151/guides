@@ -1,0 +1,32 @@
+name: Suggest an edit or report a problem
+description: Something on a page is wrong, outdated, unclear or broken.
+title: "[Edit] "
+labels: ["content"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      description: Paste the link or page name.
+      placeholder: https://bashar.wiki/eclipse/addons
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem is it?
+      options:
+        - Wrong or outdated information
+        - Typo or wording
+        - Broken link or missing image
+        - Confusing or hard to follow
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What should change?
+      description: Tell me what's wrong and, if you know it, what it should say instead.
+    validations:
+      required: true

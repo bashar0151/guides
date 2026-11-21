@@ -1,0 +1,17 @@
+name: Request a new guide
+description: Ask for a guide or page that doesn't exist yet.
+title: "[Guide] "
+labels: ["new guide"]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: What should the guide cover?
+      placeholder: e.g. Setting up an add-on, using Eclipse on Linux
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else I should know?
+      description: What are you trying to do, and where did you get stuck?
